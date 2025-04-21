@@ -38,7 +38,7 @@ Before using this script, ensure you have the following installed:
    git clone https://github.com/kHasnain0/Project-Action-Campaigns.git
    cd Project-Action-Campaigns
 
-2.  Install the required Python libraries:
+3.  Install the required Python libraries:
     pip install tqdm
 
 
