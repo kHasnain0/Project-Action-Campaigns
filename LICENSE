@@ -1,0 +1,40 @@
+Mozilla Public License, version 2.0
+==================================
+
+1. Definitions
+--------------
+1.1. "Contributor" means each individual or entity that creates, modifies, or distributes the Code.
+1.2. "Contributor Version" means the combination of the Contributions of the Contributor and the code that is modified by such Contributions.
+1.3. "Code" means the source code and object code form of the work and all associated documentation.
+1.4. "You" means the individual or entity that uses the Code.
+
+2. License Grants
+----------------
+2.1. The Licensor grants you the rights to use, reproduce, and distribute the Code as follows:
+    - You may use, reproduce, or distribute copies of the Code.
+    - You may create derivative works of the Code.
+    - You may combine the Code with other code and distribute the combination, provided you meet the requirements below.
+
+3. Conditions
+-------------
+3.1. If you distribute the Code or a modified version of the Code, you must make sure the following conditions are met:
+    - You must provide a copy of the MPL 2.0 License with the distribution.
+    - You must include an attribution to the original authors and any other contributors.
+    - You must include a prominent notice in your code or documentation stating any modifications made to the original code.
+
+4. Distribution of Modifications
+--------------------------------
+4.1. If you distribute a modified version of the Code, you must make sure that any modifications to the Code are distributed under the terms of this License.
+
+5. No Warranty
+--------------
+5.1. The Code is licensed "as-is," without any warranties or guarantees. The Licensor is not responsible for any damage caused by the Code.
+
+6. Termination
+--------------
+6.1. If you violate any terms of this License, your rights to use the Code will be automatically terminated.
+
+---
+
+**Mozilla Public License, version 2.0** 
+(Available at: https://www.mozilla.org/en-US/MPL/2.0/)
