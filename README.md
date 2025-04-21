@@ -23,7 +23,7 @@ You can install `tqdm` via pip:
 
 ```bash
 pip install tqdm 
-```bash
+ ```
 
 ## Setup
 
