@@ -23,3 +23,61 @@ You can install `tqdm` via pip:
 
 ```bash
 pip install tqdm
+
+## Setup
+
+### Prerequisites
+Before using this script, ensure you have the following installed:
+- **Python 3.x**: Ensure that you have Python 3 or higher installed.
+- **tqdm library**: This script uses `tqdm` to show a progress bar during CSV processing. Install it using pip.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+
+2.  Install the required Python libraries:
+    pip install tqdm
+
+
+### 4. **Usage**
+1. Prepare a CSV file that contains two columns:
+   - `ACTIONCAMPAIGNID` (Campaign identifier)
+   - `CAMPAIGN_COOKIE_DATA_JSON` (Encoded JSON string containing campaign and URL parameters)
+
+2. Save your CSV file in the same directory as the script.
+
+3. Run the script from the terminal with the following command:
+   ```bash
+   python campaign_parser.py
+
+4. Follow the prompt to enter the name of the input CSV file.
+
+5. Once processing is complete, the script will generate a new CSV file with the parsed data. The output will contain all the relevant fields like campaign name, visitor ID, URL tracking information, etc.
+
+
+Example:
+Input CSV:
+
+ACTIONCAMPAIGNID	                      CAMPAIGN_COOKIE_DATA_JSON
+1234	                                  %7B%22Campaign_Name__c%22%3A%22Campaign+1%22%2C%22Visitor_ID__c%22%3A%2212345%22%2C%22utm_medium%22%3A%22email%22%7D
+
+
+### 5. **Contributing**
+
+## Contributing
+
+Contributions are welcome! If you find any issues or would like to add new features, feel free to fork this repository and submit a pull request.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to your branch (`git push origin feature-branch`).
+5. Create a pull request.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
