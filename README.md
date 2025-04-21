@@ -22,7 +22,8 @@ Before you can run the script, ensure you have the following installed:
 You can install `tqdm` via pip:
 
 ```bash
-pip install tqdm
+pip install tqdm 
+```bash
 
 ## Setup
 
@@ -34,7 +35,6 @@ Before using this script, ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 
